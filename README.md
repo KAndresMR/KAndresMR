@@ -10,12 +10,11 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
+- 🔭 I’m currently studing on [Mentor Bot](https://www.ups.edu.ec/en/home)
 
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
+- 🌱 I’m currently learning **Dart, Observability & Monitoring of Distributed Systems, Event Driven Systems**
 
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
+- 💬 Ask me about **Machine Learning, Java, C#, SQL/NoSQL Databases**
 
 &emsp;
 
@@ -24,19 +23,16 @@
 
 
 &emsp;
-<a href="https://www.linkedin.com/in/berkeli/">
+<a href="https://www.linkedin.com/in/andres-morocho-14091628">
     ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
-<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
-    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
-</a>
-<a href="https://www.instagram.com/halmyradov/">
+<a href="https://www.instagram.com/morocho7811/">
     ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
 </a>
-<a href="https://github.com/berkeli">
+<a href="https://github.com/KAndresMR">
     ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
 </a>
-<a href="https://stackoverflow.com/users/14958897/berkeli">
+<a href="https://es.stackoverflow.com/users/296350/andres-morocho">
     ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
 </a>
 <a href="https://www.codewars.com/users/BerkeliH">
