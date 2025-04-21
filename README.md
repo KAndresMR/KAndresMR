@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Andres Morocho</h1>
 
+
+
 <img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Andres Morocho, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+<h3 align="left">
+Mobile App Developer based in Cuenca, Ecuador. I specialize in building mobile applications and enjoy solving complex problems through clean and scalable architectures. I’m passionate about cybersecurity, distributed systems, and system design. Open to freelance work and always looking for new challenges to grow as a developer.
+</h3>
 &emsp;
 
 -------------------
