@@ -1,115 +1,123 @@
-<h1 align="center">Hi 👋, I'm Andres Morocho</h1>
-
-
-
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<img src="https://raw.githubusercontent.com/KAndresMR/KAndresMR/main/assets/header.svg" align="center" alt="Andres Morocho — Flutter developer, multiplatform apps">
 
 -------------------
-&emsp;
-<h3 align="left">
-Mobile App Developer based in Cuenca, Ecuador. I specialize in building mobile applications and enjoy solving complex problems through clean and scalable architectures. I’m passionate about cybersecurity, distributed systems, and system design. Open to freelance work and always looking for new challenges to grow as a developer.
-</h3>
-&emsp;
+
+### 🚀 About Me
+
+I'm a Flutter specialist based in Cuenca, Ecuador, focused on building **scalable, production-grade multiplatform applications** — not just mobile apps, but experiences that run just as well on tablet and desktop. I care about clean architecture, smooth UX, and turning technical prototypes into products that feel premium.
+
+Beyond app development, I'm also interested in **systems automation for businesses and small businesses (microempresas)**, and I keep a hand in cybersecurity and distributed systems as areas I actively study.
+
+- 🎓 Studying at the [Universidad Politécnica Salesiana](https://www.ups.edu.ec/)
+- 💙 Specialized in **Flutter & Dart** for cross-platform app development (mobile, tablet, desktop)
+- 🌱 Currently learning **Distributed Systems** and deepening my **Flutter** expertise
+- ⚙️ Also exploring **business process automation** for companies and microempresas
+- 💬 Ask me about **Flutter, Dart, Java, Python, C#, OOP, Mobile Development, and Relational Databases**
+- 📌 Open to freelance work and new challenges
 
 -------------------
-&emsp;
 
-- 🎓 I’m currently studying at the [Universidad Politécnica Salesiana](https://www.ups.edu.ec/)
-  
-- 🌱 I’m currently learning **Distributed Systems, Flutter & Dart**
-  
-- 💬 Ask me about **Java, Python, C#, Flutter, Mobile Development, OOP, CSS, and Relational Databases (Oracle, PostgreSQL, MySQL)**
+### 🌟 Featured Projects
 
-&emsp;
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Me around the web:
+**💳 CredyNox**
+<br>
+Modern fintech dashboard built in Flutter, inspired by Stripe, Linear, and Vercel. Fully responsive across mobile, tablet, desktop, and web, with a premium dark UI, animated transitions, and a modular, scalable architecture ready for real backend integration.
+
+`Flutter` `Riverpod` `GoRouter` `Material 3`
+
+[🔗 View Repository](https://github.com/KAndresMR/hackaton_project)
+
+</td>
+<td width="50%" valign="top">
+
+**🧩 Misión Down** <sub>(private project)</sub>
+<br>
+A mobile app + web admin dashboard supporting cognitive development and education for children with Down Syndrome. Built with strong accessibility focus (large type, high-contrast palettes) for use by both parents and specialists.
+
+`Flutter` `Firebase` `Chart.js`
+
+<!-- Add 2-3 real screenshots of Misión Down here (mobile + dashboard views) -->
+<p align="center"><i>Screenshots coming soon</i></p>
+
+</td>
+</tr>
+</table>
+
+<!-- 
+Tip: Add real screenshots or a short GIF for CredyNox too — a dashboard view + mobile view side by side
+looks great here, e.g.:
+<img src="link-to-your-screenshot.png" width="45%">
+-->
+
 -------------------
 
+## 🛠️ Skills
 
-&emsp;
-<a href="https://www.linkedin.com/in/andres-morocho-14091628">
-    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
-</a>
-<a href="https://www.instagram.com/morocho7811/">
-    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
-</a>
-<a href="https://github.com/KAndresMR">
-    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
-</a>
-<a href="https://es.stackoverflow.com/users/296350/andres-morocho">
-    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
-</a>
-<a href="https://www.codewars.com/users/BerkeliH">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
-</a>
-<a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-<a href="https://codepen.io/berkeli">
-    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
-</a>
+**Mobile & Cross-Platform**
+<br>
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter) ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 
-&emsp;
-
-## 🛠️ My Skills
--------------------
-### Programming languages:
-&emsp;
+**Languages**
+<br>
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![CSharp](https://img.shields.io/badge/-C%23-000?&logo=C-Sharp)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-### 📱 Mobile Development:
-&emsp;
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-### 🧰 Tools & IDEs:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![NetBeans](https://img.shields.io/badge/-NetBeans-000?&logo=ApacheNetBeansIDE)
-![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=EclipseIDE)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-000?&logo=Google)
 
-### 🌐 Frontend Frameworks:
-&emsp;
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-
-### 🧠 Database Systems:
-&emsp;
+**Databases**
+<br>
 ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
-### 🔧 Other Tools (optional):
-&emsp;
+**Tools & Infrastructure**
+<br>
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 
+**Frontend**
+<br>
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 
-&emsp;
+-------------------
 
-## 📈 My GitHub Stats and Activity
+### 🌐 Find Me Around the Web
 
-### 💻 GitHub Profile Stats
+<a href="https://www.linkedin.com/in/andres-morocho-14091628">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+</a>
+<a href="https://github.com/KAndresMR">
+    <img src="https://img.shields.io/github/followers/KAndresMR?label=follow&style=social">
+</a>
+<a href="https://es.stackoverflow.com/users/296350/andres-morocho">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social">
+</a>
+<a href="https://www.workana.com/freelancer/9be8e62fbcaec377328afd3524062f95">
+    <img src="https://img.shields.io/badge/-Workana-6C3AC7?style=flat-square">
+</a>
 
-<img alt="Andres's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=KAndresMR&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+-------------------
 
-<img alt="Andres's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAndresMR&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+### 📈 GitHub Stats & Activity
 
-
-### 🔥 Streak Stats
+<img alt="Andres's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=KAndresMR&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
+<img alt="Andres's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAndresMR&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
 
 <img alt="Andres's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KAndresMR&theme=tokyonight" />
-
-### 📊 Contribution Stats
 
 <img alt="Andres's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KAndresMR&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
